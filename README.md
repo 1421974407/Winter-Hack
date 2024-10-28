@@ -10,7 +10,8 @@ This document outlines my code designed to detect laser pointers in video frames
 
 The primary function of this script is to detect laser pointers and display their color, distance, and confidence level on the video frame. The rendering show is as below:
 
-![image]([https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg](https://github.com/1421974407/Winter-Hack/blob/main/Code%20rendering.png))
+![image](https://github.com/1421974407/Winter-Hack/blob/main/Code%20rendering.png)
+
 *Fig1. Code rendering*
 
 ## Performance
